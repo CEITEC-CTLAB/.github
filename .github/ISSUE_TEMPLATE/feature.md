@@ -9,16 +9,13 @@ assignees: ''
 
 ## Description
 
-Description here.
+What feature will be added
 
-## Affected Modules and Sub-Module/s
+## Affected Part/s of the Codebase
 
-[Module Name]
+[package name/module name/class name]
 
 ## Implementation
 
-1. [x] Task.
-1. [x] Task.
-1. [x] Task.
 - [ ] Issue task 1
 - [ ] Issue task 2
