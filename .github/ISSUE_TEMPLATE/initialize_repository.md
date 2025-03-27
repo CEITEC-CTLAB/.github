@@ -9,17 +9,19 @@ assignees: ''
 
 ## Description
 
-Initialization of repository
+Initialize this repository step-by-step.
 
 ## Implementation
 
-1) [ ] create an issue branch for the initialization issue
-1) [x] Set up folder structure for repository [Source, Documentation, Data]
-1) [ ] Add about
-1) [ ] Add repository tags
-1) [ ] Fill in README.md with relevant information
-1) [ ] Fill in the LICENSE file, if applicable
-1) [ ] Push initial repository contents
-1) [ ] Customize .gitignore file
-1) [ ] (Optional) Set up GitHub project to get access to additional project management tools.
-1) Create a pull request to merge the initialization issue branch into `main`
+- [ ] create an issue branch for the initialization issue
+- [x] Set up folder structure for repository [Source, Documentation, Data]
+- [ ] Add about
+- [ ] Add repository tags
+- [ ] Fill in README.md with relevant information
+- [ ] Fill in the LICENSE file, if applicable
+- [ ] Push initial repository contents
+- [ ] Customize .gitignore file
+- [ ] (Optional) Set up GitHub project to get access to additional project management tools.
+- [ ] Create a pull request to merge the initialization issue branch into `main`
+
+<!-- TODO - add documentation link -->
