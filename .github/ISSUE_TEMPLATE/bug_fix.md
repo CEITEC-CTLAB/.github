@@ -20,63 +20,21 @@ What actually happens
 1) step 1
 2) step 2
 
-Code to reproduce
+Code to reproduce <!-- optional -->
 
-```python
-your = code(code)
+```javascript
+your = code(here)
 ```
 
-## Affected Part/s of the codebase
+## Affected Part/s of the Codebase
 
-[package name]
-
-[module name]
-
-[class name]
-
-## Implementation
-
-- [ ] Issue task 1
-- [ ] Issue task 2
-
-
-<!-- 
-
----
-name: Bug Report
-about: Create a task for reporting a bug.
-title: ''
-labels: 'bug'
-assignees: ''
-
----
-
-## Expected Behavior
-
-What should happen
-
-## Actual Behavior
-
-What actually happens
-
-## Steps to Reproduce
-
-1) step 1
-2) step 2
-
-Code to reproduce
-
-```python
-your = code(code)
-```
+[package name/module name/class name]
 
 ## Specifications
+<!-- version, platform, package versions, ... -->
 
-- Version:
-- Platform:
+## Suggested Solution
+<!-- optional -->
 
-## Possible Solution
-<!--- Not obligatory -->
-
-
- -->
+- [ ] Solution step 1
+- [ ] Solution step 2
