@@ -21,8 +21,9 @@ Initialize this repository step-by-step.
 - [ ] Fill in the LICENSE file, if applicable
 - [ ] Push initial repository contents
 - [ ] Customize .gitignore file
-- [ ] (Optional) Set up GitHub project to get access to additional project management tools.
-- [ ] (Optional) Choose a documentation template and add it to your repository. <!-- TODO - add link to templates -->
+- [ ] (Optional) Choose a [documentation template](https://github.com/CEITEC-CTLAB/.github-private/blob/main/templates/documentation/README.md) and add it to your repository.
+- [ ] (Optional) Set up [GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) to get access to additional project management tools.
+
 - [ ] (Optional) Set Up Project Board
   - Create a project board named **Project Tracker** for managing and tracking the issues and progress of the project.
   - Add columns such as `To Do`, `In Progress`, `Review`, and `Done` to organize the workflow.
