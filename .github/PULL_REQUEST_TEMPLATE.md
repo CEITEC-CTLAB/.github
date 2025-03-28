@@ -1,16 +1,15 @@
----
-name: Pull Request
-about: Create a pull request.
-title: '<Concise descriptive title>'
-labels: ''
-assignees: ''
+# Pull Request
 
----
+## Description
 
-## Pull Request
+Describe the purpose of this pull request and its contents.
 
-- Give the pull request a concise & descriptive title.
-- Describe the purpose of this pull request and its contents.
-- Add some relevant labels.
-- Choose somebody to review your code.
-- Assign who will merge the pull request once it is approved.
+## Checklist
+
+- [ ] All new features are added and/or bugs are fixed.
+- [ ] Code was tested and works as expected.
+
+- [ ] PR has a concise & descriptive title.
+- [ ] Relevant labels added.
+- [ ] Reviewer chosen.
+- [ ] Assignee chosen.
