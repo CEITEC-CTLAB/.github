@@ -21,6 +21,7 @@ Please delete options that are not relevant.
 - [ ] I have added relevant labels.
 - [ ] I selected a Reviewer.
 - [ ] I selected an Assignee.
+- [ ] I included keywords to close related issues automatically (if applicable).
 
 - [ ] My code follows the general/project-specific style guidelines (i.e., it is readable by others).
 - [ ] I have performed a self-review of my code.
