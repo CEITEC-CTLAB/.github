@@ -15,6 +15,7 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 ## Checklist
+<!-- Feel free to delete the checklist once you've gone through it -->
 
 - [ ] PR has a concise & descriptive title.
 - [ ] I have added relevant labels.
@@ -27,3 +28,4 @@ Please delete options that are not relevant.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] I have tested my code to make sure it behaves as expected.
 - [ ] (Recommended) I have added automated tests for my code
+- [ ] I have rebased my issue branch on the most up-to-date state of `main`
