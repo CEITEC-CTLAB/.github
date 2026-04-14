@@ -35,4 +35,10 @@ In the issue description, concisely answer these questions:
 If you are creating an issue for someone else:
   - Describe the task well. (You can follow, e.g., the SMART framework)
   - Define acceptance conditions (e.g., Pull request created, reviewed by assigner, and merged into main)
+
+You can add some code snippets to this description like this:
+
+```python
+your = code(here)
+```
 -->
