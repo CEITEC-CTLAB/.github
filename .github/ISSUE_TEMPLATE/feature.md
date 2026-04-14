@@ -1,6 +1,6 @@
 ---
-name: 'Feature'
-about: Create a task for feature.
+name: 'New Issue'
+about: General template for Github issues, with a few guidelines & tips.
 title: ''
 labels: ''
 assignees: ''
@@ -8,24 +8,31 @@ assignees: ''
 ---
 
 ## Description
+<!-- Describe the issue/task briefly. See tips below. -->
 
-What feature will be added
-
-## Affected Part/s of the Codebase
-
-[package name/module name/class name]
 
 ## Implementation
+<!-- Create a checklist of issue-related tasks/subtasks to track your progress on this issue. -->
 
 - [ ] Issue task 1
 - [ ] Issue task 2
 
-## Checklist
-<!-- Feel free to delete the checklist once you've gone through it -->
 
-- [ ] Issue has a concise & descriptive title.
-- [ ] I have added relevant labels.
-- [ ] I selected an Assignee (commonly yourself).
 
-- [ ] The scope of this issue is clearly defined & reasonable
-- [ ] If I am not in charge of this repo, I have made sure to let the responsible person know about this issue (by @-ing them or messaging them through other means)
+<!-- TIPS - feel free to delete these when you're done
+Issue setup checklist:
+  - Issue has a concise & descriptive title.
+  - I have added relevant labels.
+  - I selected an Assignee.
+  - When collaborating, I have @-ed/messaged/notified the collaborator/s
+  - The scope of this issue is clearly defined & reasonable (it is clear what tasks will be done within this issue)
+
+In the issue description, concisely answer these questions:
+  - Are you adding a feature or fixing a bug?
+  - What will you add to or change in the code?
+  - Will this change the codebase in a major way or is it just a minor update?
+
+If you are creating an issue for someone else:
+  - Describe the task well. (You can follow, e.g., the SMART framework)
+  - Define acceptance conditions (e.g., Pull request created, reviewed by assigner, and merged into main)
+-->
