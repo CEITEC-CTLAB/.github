@@ -1,32 +1,28 @@
-<!-- Template inspired by https://axolo.co/blog/p/part-3-github-pull-request-template -->
-
 # Pull Request
 
 ## Description
+<!-- Describe the purpose of this pull request and its contents. -->
 
-Describe the purpose of this pull request and its contents.
+Describe the changes
 
-## Type of change
+<!-- TIPS - feel free to delete these when you're done
+Issue setup checklist:
 
-Please delete options that are not relevant.
+Pull request:
+- PR has a concise & descriptive title.
+- The description clearly communicates any other crucial info which does not fit in the title
+- If there are any remaining tasks or points of discussion, I have added them as a checklist
+- I have added relevant labels.
+- I selected a Reviewer.
+- I selected an Assignee (the one who will do the merge).
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+Code:
+- My code works and behaves as expected (I checked)
+  - optional: I have added automated tests
+- My code is readable (By someone else - the reviewer - or by myself in 6 months)
+- My code includes comments where necessary (but not too many)
+- I updated the documentation (if necessary)
+- I have rebased my issue branch on the most up-to-date state of the base branch to avoid merge conflicts.
 
-## Checklist
-<!-- Feel free to delete the checklist once you've gone through it -->
-
-- [ ] PR has a concise & descriptive title.
-- [ ] I have added relevant labels.
-- [ ] I selected a Reviewer.
-- [ ] I selected an Assignee.
-- [ ] I included keywords to close related issues automatically (if applicable).
-
-- [ ] My code follows the general/project-specific style guidelines (i.e., it is readable by others).
-- [ ] I have performed a self-review of my code.
-- [ ] I have commented my code, particularly in hard-to-understand areas.
-- [ ] I have made corresponding changes to the documentation.
-- [ ] I have tested my code to make sure it behaves as expected.
-- [ ] (Recommended) I have added automated tests for my code
-- [ ] I have rebased my issue branch on the most up-to-date state of `main`
+You can get more inspiration here: https://axolo.co/blog/p/part-3-github-pull-request-template
+-->
