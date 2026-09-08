@@ -1,0 +1,35 @@
+' This is a basic PlantUML activity diagram
+' for more info on PlantUML, check out https://plantuml.com/
+
+@startuml placeholder_chart
+start
+
+:input/
+
+:action 1;
+
+repeat :For each thing;
+
+        if (Thing satisfies condition) then (yes)
+            
+            :action 2;
+
+        else (No)
+
+            :action 3;
+
+        endif
+
+:action 4;
+
+repeat while (next thing)
+
+:action 5;
+
+:action 6;
+
+:output/
+
+stop
+@enduml
+
