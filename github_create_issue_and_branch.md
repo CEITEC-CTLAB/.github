@@ -2,6 +2,14 @@
 
 ## Before you start
 - GitHub Organization access — invited via email by your supervisor or org admin
+
+> [!WARNING]
+> **Check which repository you are on!** This walkthrough page lives in the public **`.github`** repository — that is most likely **not** your own repository.
+>
+> Create the issue on **your own repository**, not on `.github`. If you stay on `.github` you probably won't be able to create a branch, since `.github` is private/restricted.
+>
+> If you accidentally created an issue on `.github` by mistake, close it: open the issue, scroll to the **bottom of the page**, and click **Close issue** (issue settings).
+
 ---
 
 ## 1) Click on Issues
