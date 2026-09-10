@@ -72,6 +72,9 @@ Choose a local folder (e.g. `Documents/GitHub`) and click **Select as Repository
 1. Click the branch name in the **status bar** (bottom-left corner)
 2. From the selector that appears at the top, select the branch you want to work on (e.g. `2-example-title-of-issue`)
 
+> [!WARNING]
+> Double-check the branch name shown in the **status bar** before making any changes. Make sure you are on your **newly created branch**, not on `main`. Nothing should ever be committed directly to `main`.
+
 ---
 
 ## 8) Install the Git Graph extension
@@ -100,6 +103,13 @@ Choose a local folder (e.g. `Documents/GitHub`) and click **Select as Repository
 1. Click the **Source Control** icon in the left sidebar
 2. Type a short commit message that describes the changes made — see [commit message conventions](Github_Guidelines.md#4-make-changes-to-the-code-locally) for guidance
 3. Click **Commit** to save to your local repository
+
+> [!NOTE]
+> If commit or push fails with an error that your **username and email are not set up in git**, open the terminal at the bottom of VS Code (**Terminal → New Terminal**) and paste in these commands, replacing the placeholders with your own details:
+> ```
+> git config --global user.name "Your GitHub Name"
+> git config --global user.email "your.github.email@example.com"
+> ```
 
 ---
 
